@@ -1,5 +1,8 @@
 _repo: Boys-and-Girls-The-Verses-of-James-W-Foley_63514
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63514-h/images/cover.jpg
 creator:
   author:
     agent_name: Foley, James W. (James William)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '6991'
     url: http://www.gutenberg.org/2009/agents/6991
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63514#Boys-and-Girls-The-Verses-of-James-W-Foley
 gutenberg_issued: '2020-10-21'
 gutenberg_type: Text
 identifiers:
